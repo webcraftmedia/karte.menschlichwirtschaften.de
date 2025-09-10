@@ -10,28 +10,28 @@
     },
     "data": [
         {
-            "_sync_id": "layer-events-map-karte.menschlichwirtschaften.de",
-            "layers_id": "layer-events",
+            "_sync_id": "layer-reiseziele-map-karte.menschlichwirtschaften.de",
+            "layers_id": "layer-reiseziele",
             "maps_id": "map-karte.menschlichwirtschaften.de"
         },
         {
-            "_sync_id": "layer-nomads-location-map-karte.menschlichwirtschaften.de",
-            "layers_id": "layer-nomads_location",
+            "_sync_id": "layer-wanderjahr-map-karte.menschlichwirtschaften.de",
+            "layers_id": "layer-wanderjahr",
             "maps_id": "map-karte.menschlichwirtschaften.de"
         },
         {
-            "_sync_id": "layer-nomads-base-map-karte.menschlichwirtschaften.de",
-            "layers_id": "layer-nomads_base",
+            "_sync_id": "layer-regionalgruppen-map-karte.menschlichwirtschaften.de",
+            "layers_id": "layer-regionalgruppen",
             "maps_id": "map-karte.menschlichwirtschaften.de"
         },
         {
-            "_sync_id": "layer-vessel-map-karte.menschlichwirtschaften.de",
-            "layers_id": "layer-vessels",
+            "_sync_id": "layer-angebote-map-karte.menschlichwirtschaften.de",
+            "layers_id": "layer-angebote",
             "maps_id": "map-karte.menschlichwirtschaften.de"
         },
         {
-            "_sync_id": "layer-basecamps-map-karte.menschlichwirtschaften.de",
-            "layers_id": "layer-basecamps",
+            "_sync_id": "layer-mitglieder-map-karte.menschlichwirtschaften.de",
+            "layers_id": "layer-mitglieder",
             "maps_id": "map-karte.menschlichwirtschaften.de"
         }
     ]

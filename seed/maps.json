@@ -11,21 +11,24 @@
     "data": [
         {
             "_sync_id": "map-karte.menschlichwirtschaften.de",
-            "name": "Menschlich Wirtschaften",
+            "name": "Menschlich Wirtschaften eG",
             "url": "https://karte.menschlichwirtschaften.de",
-            "logo": "vessel-svg",
+            "logo": "menschlich-wirtschaften-logo-png",
 		    "zoom": 6,
 		    "own_tag_space": true,
 		    "center": {
 			    "type": "Point",
 			    "coordinates": [
-				    10.067625824315172,
-				    50.51565268622562
+                    14.508388411648895,
+				    50.070789813674565
 			    ]
 		    },
 		    "donation_widget": false,
-		    "custom_text": "# Welcome to the Development Server\n\nThis map is just for development purposes and to try out new things.",
-		    "default_theme": null
+		    "custom_text": "# Anleitung: Karte für Menschlich Wirtschaften eG\n\n### Einloggen\n\nUm dich in der Karte einzuloggen, gehe auf [karte.menschlichwirtschaften.de](https://karte.menschlichwirtschaften.de/) und klicke oben rechts auf **Login**.\n\n### Neues Benutzerkonto anlegen\n\nUm ein neues Benutzerkonto anzulegen, klicke oben rechts auf **Sign Up**.\n\n### Neuen Eintrag anlegen\n\n<img src=\"https://hack.utopia-lab.org/uploads/7e4a56e3-b5ee-42c8-a2f2-bf29148068da.png\" alt=\"Ein Beispielbild\" style=\"float: right; margin-left: 20px; border-radius:15px; height:75px\">\n\nJeder angemeldete Benutzer kann neue Gruppen, Veranstaltungen oder Praxen erstellen:\n\n1. Klicke auf den **Plus-Button** unten rechts  \n2. Wähle den Typ des Eintrags  \n3. Wähle die gewünschte Position auf der Karte aus  \n4. Gib einen Titel und den Text ein (kann jederzeit geändert werden)  \n5. Klicke auf **Save**, um zu speichern  \n\n### Bestehenden Eintrag ändern/löschen\n\n<img src=\"https://hack.utopia-lab.org/uploads/47a87874-b0e7-49d2-ac20-6cfc1ba48636.png\" alt=\"Ein Beispielbild\" style=\"float: right; margin-left: 20px; border-radius:15px; height:210px\">\n\nJeder Benutzer kann die Daten (Name, Text, Gruppentyp, Kontaktdaten, Termine) seiner eigenen Einträge anpassen.  \nDazu:\n\n- Klicke auf die drei Punkte oben rechts und dann auf das **Stift-Symbol**, um das Formular zum Ändern des Eintrags zu öffnen.  \n- Klicke auf **Update**, um zu speichern.  \n- Um die Position auf der Karte zu ändern, klicke auf das **Fadenkreuz** und wähle eine neue Position aus.  \n- Um den Eintrag zu löschen, klicke auf das **Papierkorb-Symbol**.  \n\n<img src=\"https://hack.utopia-lab.org/uploads/2028be78-811f-4e7c-93ee-cbdda252e7fe.png\" alt=\"Ein Beispielbild\" style=\"float: right; margin-left: 20px; margin-top: 30px; border-radius:15px; height:329px\">\n\n### Persönliches Profil auf die Karte setzen\n\nUm dein eigenes Profil auf der Karte zu platzieren, klicke auf den **Plus-Button** unten rechts und wähle im Anschluss den **User-Button**. \n\nWähle anschließend die gewünschte Position auf der Karte aus.\n\nWenn du deinen exakten Standort nicht preisgeben möchtest, kannst du den Marker einfach in deiner Nähe platzieren. \n\nDu kannst die Position jederzeit ändern oder den Marker wieder von der Karte entfernen.\n\n### Kartenansicht filtern\n\n<img src=\"https://hack.utopia-lab.org/uploads/4158a3c3-56ea-4388-b1b0-e09ee8d4f3d1.png\" alt=\"Ein Beispielbild\" style=\"float: right; margin-left: 20px; border-radius:15px; height:186px\">\n\nUm bestimmte Einträge an-/auszublenden, klicke auf das **Icon** unten links. Dort kannst du Anzeigeoptionen (z. B. Mitglieder, Angebote) ein- und ausschalten.\n\n### Einträge suchen\n\nUm nach einem bestimmten Eintrag zu suchen, gib den Suchtext in die **Suchleiste** ein. \n\nIn den Suchergebnissen werden dir alle passenden Einträge angezeigt.\n\n<img src=\"https://hack.utopia-lab.org/uploads/ed5da94f-47b9-4ba1-972b-4ff7ba3f9c8c.png\" alt=\"Ein Beispielbild\" style=\"float: right; margin-left: 20px; border-radius:15px; height:380px\">\n\n### Adresse suchen\n\nUm nach einer bestimmten Adresse zu suchen, gib die Adresse in die **Suchleiste** ein.\n\n### Eigenen Standort finden\n\nUm deinen Standort auf der Karte zu zentrieren, klicke auf das **Fadenkreuz** rechts neben der Suchleiste. \n\n(Dazu muss das GPS deines Smartphones aktiviert sein.)\n\n### Listenansicht öffnen\n\n<img src=\"https://hack.utopia-lab.org/uploads/f8ee7beb-2183-4e81-a14b-c5be7600362f.png\" alt=\"Ein Beispielbild\" style=\"float: left; margin-right: 20px; border-radius:15px; height:84px;\">\n\nKlicke auf das **Hamburger-Symbol** oben links, um das Menü zu öffnen, und wähle **Gruppen**, **Menschen**, **Praxen** oder **Veranstaltungen**, um alle Einträge als Liste zu sehen. \n\nDiese Liste enthält auch Einträge ohne Kartenposition.\n\n### Eigenes Profil bearbeiten\n\n<img src=\"https://hack.utopia-lab.org/uploads/ffe10e65-d7eb-4e01-a1c8-2338e07bc2a8.png\" alt=\"Ein Beispielbild\" style=\"float: right; margin-left: 20px; border-radius:15px; height:206px\">\n\nUm dein Profil (Name, Profilbild etc.) zu bearbeiten, klicke auf die drei Punkte oben rechts in der Menüleiste und wähle **Profile**.  \n\nWenn du Gruppen auf der Karte erstellt hast, werden dein Name und dein Profilbild automatisch in den Kontaktfeldern dieser Gruppen angezeigt.\n\n### E-Mail-Adresse oder Passwort ändern\n\nUm deine E-Mail-Adresse oder dein Passwort zu ändern, klicke auf **Settings**.\n\n### Passwort zurücksetzen\n\nUm dein Passwort zurückzusetzen, klicke auf **Login** und dann auf **Forgot Password?** oder benutze diesen [Link](https://karte.menschlichwirtschaften.de/reset-password).\n\nGib deine E-Mail-Adresse ein und klicke auf **Send**.  \n\nDu erhältst dann einen Link, mit dem du ein neues Passwort vergeben kannst.\n",
+		    "default_theme": null,
+            "geo": null,
+            "hide_signup": false,
+            "show_request_password": false
         }
     ]
 }
