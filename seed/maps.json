@@ -28,7 +28,9 @@
 		    "default_theme": null,
             "geo": null,
             "hide_signup": false,
-            "show_request_password": false
+            "show_request_password": false,
+			"show_zoom_control": true,
+			"expand_layer_control": true
         }
     ]
 }
